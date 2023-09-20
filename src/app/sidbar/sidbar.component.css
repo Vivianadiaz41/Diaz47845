@@ -1,0 +1,6 @@
+aside {
+  position: fixed;
+  background-color: rgba(2, 115, 62, 0.754);
+  height: 100vh;
+  width: 300px;
+}
